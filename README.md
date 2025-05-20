@@ -1,4 +1,4 @@
-## !Bienvenid@ a mi Github! 
+## ¡Bienvenid@ a mi Github! 
 
 #### Soy una profesional motivada y expectante de profundizar día a día en el área de la programación. Tengo una gran preocupación de entregar resultados sobresalientes en las tareas que se me encomienden. Además de desafiarme constantemente, con tal de aprender nuevas herramientas profesionales y personales.
 
@@ -12,7 +12,7 @@
 - Metodologías: Scrum
 
 ## Contacto
-* [Correo Electrónico](millaray.painemil.h@gmail.com "@embed")
+* Correo electrónico: Millaray.painemil.h@gmail.com
 
 ## Welcome to my Github!
 
@@ -28,7 +28,7 @@
 - Methodologies: Scrum
 
 ## Contact
-* [Email](millaray.painemil.h@gmail.com "@embed")
+* Email: Millaray.painemil.h@gmail.com
 <!--
 **yumikosito/yumikosito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
