@@ -19,7 +19,7 @@ https://milla-ph.capybar.org/
 
 ## Welcome to my Github!
 
-#### I am a motivated professional eager to delve deeper into the programming world every day. I am deeply committed to delivering outstanding results in the tasks assigned to me. I also constantly challenge myself to learn new professional and personal tools.
+#### I am a motivated professional, eager to deepen my knowledge in the field of programming every day. I am strongly committed to delivering outstanding results in any task assigned to me. Additionally, I constantly seek to challenge myself in order to learn new professional and personal tools.
 
 ## Technologies:
 - Frontend: HTML, CSS, JavaScript, Bootstrap, React
