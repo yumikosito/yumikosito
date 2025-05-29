@@ -15,9 +15,6 @@
 ### Portafolio
 https://maph.cl/
 
-## Contacto
-* Correo electrónico: Millaray.painemil.h@gmail.com
-
 ## Welcome to my Github!
 
 #### I am a motivated professional, eager to deepen my knowledge in the field of programming every day. I am strongly committed to delivering outstanding results in any task assigned to me. Additionally, I constantly seek to challenge myself in order to learn new professional and personal tools.
@@ -33,9 +30,6 @@ https://maph.cl/
 
 ### Portfolio
 https://maph.cl/
-
-## Contact
-* Email: Millaray.painemil.h@gmail.com
 <!--
 **yumikosito/yumikosito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
