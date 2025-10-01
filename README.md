@@ -6,7 +6,7 @@
 ## Tecnologías:
 - Frontend: HTML, CSS, JavaScript, Bootstrap, React
 - Backend: Node.js, Express.js
-- Testing: Jest, SuperTest, Pytest, Playwright, Cypress, Selenium, Postman
+- Testing: Jest, SuperTest, Pytest, Playwright, Cypress, Selenium, Postman, Appium, Gherkin (Cucumber y Behave)
 - Bases de datos:  PostgreSQL
 - Diseño UX/UI: Figma
 - Herramientas: Git, GitHub
@@ -22,7 +22,7 @@ https://maph.cl/
 ## Technologies:
 - Frontend: HTML, CSS, JavaScript, Bootstrap, React
 - Backend: Node.js, Express.js
-- Testing: Jest, SuperTest, Pytest, Playwright, Cypress, Selenium, Postman
+- Testing: Jest, SuperTest, Pytest, Playwright, Cypress, Selenium, Postman, Appium, Gherkin (Cucumber and Behave)
 - Databases: PostgreSQL
 - UX/UI Design: Figma
 - Tools: Git, GitHub
